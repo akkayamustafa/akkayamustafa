@@ -2,7 +2,7 @@
 
 I am a PhD candidate in Bilkent University Mathematics Department. My research interests are homotopy and category theory. 
 
-I am interested in machine learnin and programming.
+I am interested in machine learning and programming.
 
 
 
